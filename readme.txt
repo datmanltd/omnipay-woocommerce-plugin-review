@@ -47,4 +47,4 @@ Click ‘Save Changes’.
 
 == Changelog ==
 1.0.0
-First working version
+First release
