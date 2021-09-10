@@ -3,7 +3,7 @@ Contributors: omnipay
 Donate link: https://omni-pay.com/
 Tags: payment, gateway, omnipay
 Requires at least: 4.0 or higher
-Tested up to: 5.4
+Tested up to: 5.8.1
 Stable tag: 1.0.0
 Requires PHP: 5.6+
 License: GPLv3 or later
